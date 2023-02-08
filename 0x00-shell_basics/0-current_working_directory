@@ -1,1 +1,2 @@
-The current working directory is : pwd
+#!/bin/bash
+echo "The current working directory is : pwd"

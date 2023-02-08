@@ -1,2 +1,2 @@
 #!/bin/bash
-To display the contents list of the current repository, use ls command 
+echo "To display the contents list of the current repository, use ls command" 
