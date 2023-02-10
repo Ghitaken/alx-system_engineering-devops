@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "To change the working directory the the user's home directory, use cd command"
+cd ~
